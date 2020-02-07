@@ -1,0 +1,21 @@
+.Navbar {
+    width: 100%;
+    padding: 0.5rem 0;
+    background-image: linear-gradient(to right, #161616, #191b1f, #182128, #13272f, #0a2e33, #073335, #063837, #083d37, #08413b, #074540, #074a44, #064e49);
+}
+
+.Navbar__brand {
+    color: #ffffff;
+
+    display: flex;
+    align-items: center;
+}
+
+.Navbar__brand:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.Navbar__brand-logo {
+    margin-right: 0.5rem;
+}
