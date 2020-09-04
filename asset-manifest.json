@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/csswoman/platzi_badges/static/css/main.ad10a2af.chunk.css",
+    "main.js": "/csswoman/platzi_badges/static/js/main.dbc77a53.chunk.js",
+    "main.js.map": "/csswoman/platzi_badges/static/js/main.dbc77a53.chunk.js.map",
+    "runtime-main.js": "/csswoman/platzi_badges/static/js/runtime-main.f4a01305.js",
+    "runtime-main.js.map": "/csswoman/platzi_badges/static/js/runtime-main.f4a01305.js.map",
+    "static/css/2.80dce9aa.chunk.css": "/csswoman/platzi_badges/static/css/2.80dce9aa.chunk.css",
+    "static/js/2.d8d126ea.chunk.js": "/csswoman/platzi_badges/static/js/2.d8d126ea.chunk.js",
+    "static/js/2.d8d126ea.chunk.js.map": "/csswoman/platzi_badges/static/js/2.d8d126ea.chunk.js.map",
+    "index.html": "/csswoman/platzi_badges/index.html",
+    "precache-manifest.c64145faf6aa2ebe0a10ac3d8c3b84ef.js": "/csswoman/platzi_badges/precache-manifest.c64145faf6aa2ebe0a10ac3d8c3b84ef.js",
+    "service-worker.js": "/csswoman/platzi_badges/service-worker.js",
+    "static/css/2.80dce9aa.chunk.css.map": "/csswoman/platzi_badges/static/css/2.80dce9aa.chunk.css.map",
+    "static/css/main.ad10a2af.chunk.css.map": "/csswoman/platzi_badges/static/css/main.ad10a2af.chunk.css.map",
+    "static/js/2.d8d126ea.chunk.js.LICENSE.txt": "/csswoman/platzi_badges/static/js/2.d8d126ea.chunk.js.LICENSE.txt",
+    "static/media/astronauts.svg": "/csswoman/platzi_badges/static/media/astronauts.41fc1662.svg",
+    "static/media/badge-header.svg": "/csswoman/platzi_badges/static/media/badge-header.92f11b9a.svg",
+    "static/media/logo.svg": "/csswoman/platzi_badges/static/media/logo.6aa2b930.svg",
+    "static/media/platziconf-logo.svg": "/csswoman/platzi_badges/static/media/platziconf-logo.dfdffa0d.svg",
+    "static/media/BadgeEdit.css": "/csswoman/platzi_badges/static/media/stars.877428a1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4a01305.js",
+    "static/css/2.80dce9aa.chunk.css",
+    "static/js/2.d8d126ea.chunk.js",
+    "static/css/main.ad10a2af.chunk.css",
+    "static/js/main.dbc77a53.chunk.js"
+  ]
+}
